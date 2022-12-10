@@ -11,7 +11,7 @@
     "cookie-parser": "~1.4.3",
     "debug": "^4.0.1",
     "ejs": "~2.5.6",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongodb": "*",
     "morgan": "^1.9.1",
     "serve-favicon": "^2.5.0"
