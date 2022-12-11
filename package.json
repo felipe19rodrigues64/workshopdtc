@@ -7,11 +7,11 @@
     "dev": "nodemon ./bin/www"
   },
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "cookie-parser": "~1.4.3",
     "debug": "^4.0.1",
     "ejs": "~2.5.6",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "mongodb": "*",
     "morgan": "^1.9.1",
     "serve-favicon": "^2.5.0"
